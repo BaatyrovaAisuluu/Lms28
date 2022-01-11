@@ -15,12 +15,10 @@ public class Main {
 
 
         Scanner sc = new Scanner(System.in);
-        System.out.println("");
         UnaryOperator<Double> unary =sqrt() ;
-        System.out.println("");
         System.out.println(unary.sqrt1(sc.nextDouble()));
-        System.out.println("");
-        System.out.println("A");
+
+
 
     }
 
