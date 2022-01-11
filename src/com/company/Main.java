@@ -20,6 +20,7 @@ public class Main {
         System.out.println("");
         System.out.println(unary.sqrt1(sc.nextDouble()));
         System.out.println("");
+        System.out.println("A");
 
     }
 
